@@ -32,13 +32,19 @@ ASMOS addresses this through semantic memory management.
 
 ## Key Features
 
-- Semantic Checkpointing
-- Confidence-Based Memory Scoring
-- Utility-Based Memory Scoring
-- Adaptive Memory Lifecycle Management
-- Efficient Context Retrieval
+## System Architecture
 
----
+```mermaid
+flowchart TD
+    A[User Query] --> B[Multi-Agent System]
+    B --> C[Semantic Checkpoint Manager]
+    C --> D[Memory Scoring Engine]
+    D --> E[Memory Lifecycle Manager]
+    E --> F[Context Retrieval]
+    F --> G[Prompt Construction]
+    G --> H[Large Language Model]
+    H --> I[Final Response]
+```
 
 ## Results
 
