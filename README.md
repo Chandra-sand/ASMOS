@@ -1,3 +1,18 @@
+# ASMOS
+
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-Multi--Agent-success?style=for-the-badge)
+![Research](https://img.shields.io/badge/Research-CDSAML-orange?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+
+</p>
+
+---
+
+## Adaptive Semantic Memory Orchestration System for Multi-Agent LLMs
+
 # ASMOS – Adaptive Semantic Memory Orchestration System
 
 ## Overview
