@@ -11,8 +11,7 @@
 
 ASMOS (Adaptive Semantic Memory Orchestration System) is a multi-agent AI memory framework developed during my AI Research Internship at the Centre for Data Sciences and Applied Machine Learning (CDSAML), PES University.
 
-The framework improves contextual retrieval for LLM-powered multi-agent systems by reducing redundant context while preserving important semantic information.
-
+A lightweight memory orchestration framework that improves contextual retrieval for multi-agent Large Language Model (LLM) systems using semantic checkpointing and adaptive memory management.
 ---
 
 ## Problem Statement
